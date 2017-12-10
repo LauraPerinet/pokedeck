@@ -1,28 +1,94 @@
-// Copyright 2017 Pierre Talbot (IRCAM)
-
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-
-//   http://www.apache.org/licenses/LICENSE-2.0
-
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
-
 package upmc.pcg.game;
+import upmc.pcg.ui.GameUI;
 
 import java.util.*;
 
-public class Game {
-  public Game() {
-  }
-  public void initialize(ArrayList<String> players_name) {
-    //....
-  }
-  public void play() {
-    //...
-  }
+public class Game implements Serializer {
+
+	private ArrayList<Player> players;
+        private Match match;
+        
+	public Game() {
+		players = new ArrayList<>();
+	}
+
+	public void initialize( ArrayList<String> players_name ) {
+           
+            for( int i=0; i<2 ; i++ ) {
+                Player user = new Player( players_name.get(i) );
+                if(i==0){
+                    user.getDeck().starterDeck("water");
+                }else{
+                    user.getDeck().starterDeck("fire");
+                }
+                /*if (! Serializer.uploadDeck( user )) {
+
+                    String starterDeck = GameUI.askIfStarterDeck( user );
+                    if(!starterDeck.equals("")) Serializer.uploadDeck( user, starterDeck );
+                }*/
+
+                this.players.add( user );
+            }
+	}
+	
+        public int getPlayersNumber(){
+            return players.size();
+        }
+        public ArrayList getAllPlayers(){
+            return players;
+        }
+	public Player getPlayer() {
+
+		Player p = null;
+		
+		for( Player cursor : this.players ) {
+			
+			if ( cursor.getIsPlaying() ) {
+				p=cursor;
+			}
+		}
+		
+		if( p != null ) {
+			return p;
+		} else {
+			throw new UnsupportedOperationException( "Not supported yet." );
+		}
+	}
+	
+	public Player nextPlayer() {
+		
+		Player current = getPlayer();
+ 
+		Player nextPlayer = getAdversePlayer( current );
+		current.play( false );
+		nextPlayer.play( true );
+		return nextPlayer;
+	}
+
+	public ArrayList<Card> getActualDeck() {
+		return this.getPlayer().getDeck().getCards();
+	}
+
+	public void setDecks() {
+		
+		for( Player p : this.players ){
+			Serializer.saveDeck( p );
+		}
+	}
+
+        public void startMatch() {
+            match=new Match(this);   
+        }
+
+    public Player getAdversePlayer(Player current) {
+        int next = this.players.indexOf( current ) + 1;
+		
+        if( next >= this.players.size() ) {
+                next = 0;
+        }
+
+        Player nextPlayer = this.players.get( next );
+        return nextPlayer;
+    }
+
 }

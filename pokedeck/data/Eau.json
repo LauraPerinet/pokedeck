@@ -1,0 +1,789 @@
+{"cards":
+	[{
+		"name":"Carapuce",
+		"hp":60,
+		"type":"POKEMON",
+		"energy_type":"water",
+		"attacks":[
+			{
+				"name":"Eclaboussure",
+				"strenght":20,
+				"energy_needed":["water,colorless"]
+			}
+		],
+		"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+		"weakness":"grass",
+		"resistance":"",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Carapuce",
+			"energy_type":"water",
+			"HP":"60",
+			"attack_number":1,
+			"attack1_name":"Eclaboussure",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"colorless water",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+			"resistance":"",
+			"weakness":"grass",
+			"retreat_cost":"1 colorless"}
+	},{
+		"name":"Carapuce",
+		"hp":60,
+		"type":"POKEMON",
+		"energy_type":"water",
+		"attacks":[
+			{
+				"name":"Eclaboussure",
+				"strenght":20,
+				"energy_needed":["water,colorless"]
+			}
+		],
+		"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+		"weakness":"grass",
+		"resistance":"",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Carapuce",
+			"energy_type":"water",
+			"HP":"60",
+			"attack_number":1,
+			"attack1_name":"Eclaboussure",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"colorless water",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+			"resistance":"",
+			"weakness":"grass",
+			"retreat_cost":"1 colorless"}
+	},
+	{
+		"name":"Carapuce",
+		"hp":60,
+		"type":"POKEMON",
+		"energy_type":"water",
+		"attacks":[
+			{
+				"name":"Eclaboussure",
+				"strenght":20,
+				"energy_needed":["water,colorless"]
+			}
+		],
+		"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+		"weakness":"grass",
+		"resistance":"",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Carapuce",
+			"energy_type":"water",
+			"HP":"60",
+			"attack_number":1,
+			"attack1_name":"Eclaboussure",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"colorless water",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+			"resistance":"",
+			"weakness":"grass",
+			"retreat_cost":"1 colorless"}
+	},
+	{
+		"name":"Carapuce",
+		"hp":60,
+		"type":"POKEMON",
+		"energy_type":"water",
+		"attacks":[
+			{
+				"name":"Eclaboussure",
+				"strenght":20,
+				"energy_needed":["water,colorless"]
+			}
+		],
+		"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+		"weakness":"grass",
+		"resistance":"",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Carapuce",
+			"energy_type":"water",
+			"HP":"60",
+			"attack_number":1,
+			"attack1_name":"Eclaboussure",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"colorless water",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"Il se refugie dans sa carapace et réplique par un éclaboussement à la première occasion.",
+			"resistance":"",
+			"weakness":"grass",
+			"retreat_cost":"1 colorless"}
+	},
+	{
+		"name":"Otaria",
+		"hp":60,
+		"type":"POKEMON",
+		"energy_type":"water",
+		"attacks":[
+			{
+				"name":"Coup d'Keu",
+				"strenght":10,
+				"energy_needed":["colorless"]
+			},
+			{
+				"name":"Vent glacé",
+				"strenght":20,
+				"energy_needed":["water", "colorless"]
+			}
+		],
+		"description":"Un habitant des icebergs. En mer, il utilise sa corne pour briser les icebergs.",
+		"weakness":"metal",
+		"resistance":"",
+		"retreat_cost":2,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Otaria",
+			"energy_type":"water",
+			"HP":"60",
+			"attack_number":2,
+			"attack1_name":"Coup d'keu",
+			"attack1_strenght":"10",
+			"attack1_energy_needed":"colorless ",
+			"attack2_name":"Vent glacé",
+			"attack2_strenght":"20",
+			"attack2_energy_needed":"water colorless",
+			"description":"Un habitant des icebergs. En mer, il utilise sa corne pour briser les icebergs.",
+			"resistance":"",
+			"weakness":"metal",
+			"retreat_cost":"2 colorless"}
+	},{
+		"name":"Otaria",
+		"hp":60,
+		"type":"POKEMON",
+		"energy_type":"water",
+		"attacks":[
+			{
+				"name":"Coup d'Keu",
+				"strenght":10,
+				"energy_needed":["colorless"]
+			},
+			{
+				"name":"Vent glacé",
+				"strenght":20,
+				"energy_needed":["water", "colorless"]
+			}
+		],
+		"description":"Un habitant des icebergs. En mer, il utilise sa corne pour briser les icebergs.",
+		"weakness":"metal",
+		"resistance":"",
+		"retreat_cost":2,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Otaria",
+			"energy_type":"water",
+			"HP":"60",
+			"attack_number":2,
+			"attack1_name":"Coup d'keu",
+			"attack1_strenght":"10",
+			"attack1_energy_needed":"colorless ",
+			"attack2_name":"Vent glacé",
+			"attack2_strenght":"20",
+			"attack2_energy_needed":"water colorless",
+			"description":"Un habitant des icebergs. En mer, il utilise sa corne pour briser les icebergs.",
+			"resistance":"",
+			"weakness":"metal",
+			"retreat_cost":"2 colorless"}
+	},
+	{
+		"name":"Bulbizarre",
+		"hp":80,
+		"type":"POKEMON",
+		"energy_type":"grass",
+		"attacks":[
+			{
+				"name":"Vampigraine",
+				"strenght":20,
+				"energy_needed":["grass"]
+			},{
+				"name":"Tranch'Herbe",
+				"strenght":40,
+				"energy_needed":["grass", "colorless"]
+			}
+		],
+		"description":"Il a une étrange graine plantée derrière son dos. Elle grandit avec lui depuis sa naissance.",
+		"weakness":"fire",
+		"resistance":"water",
+		"retreat_cost":2,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Bulbizarre",
+			"energy_type":"grass",
+			"HP":"80",
+			"attack_number":2,
+			"attack1_name":"Vampigraine",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"grass",
+			"attack2_name":"Tranch'Herbe",
+			"attack2_strenght":"40",
+			"attack2_energy_needed":"grass colorless",
+			"description":"Il a une étrange graine plantée derrière son dos. Elle grandit avec lui depuis sa naissance.",
+			"resistance":"water",
+			"weakness":"fire",
+			"retreat_cost":"2 colorless"}
+	},{
+		"name":"Bulbizarre",
+		"hp":80,
+		"type":"POKEMON",
+		"energy_type":"grass",
+		"attacks":[
+			{
+				"name":"Vampigraine",
+				"strenght":20,
+				"energy_needed":["grass"]
+			},{
+				"name":"Tranch'Herbe",
+				"strenght":40,
+				"energy_needed":["grass", "colorless"]
+			}
+		],
+		"description":"Il a une étrange graine plantée derrière son dos. Elle grandit avec lui depuis sa naissance.",
+		"weakness":"fire",
+		"resistance":"water",
+		"retreat_cost":2,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Bulbizarre",
+			"energy_type":"grass",
+			"HP":"80",
+			"attack_number":2,
+			"attack1_name":"Vampigraine",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"grass",
+			"attack2_name":"Tranch'Herbe",
+			"attack2_strenght":"40",
+			"attack2_energy_needed":"grass colorless",
+			"description":"Il a une étrange graine plantée derrière son dos. Elle grandit avec lui depuis sa naissance.",
+			"resistance":"water",
+			"weakness":"fire",
+			"retreat_cost":"2 colorless"}
+	},{
+		"name":"Bulbizarre",
+		"hp":80,
+		"type":"POKEMON",
+		"energy_type":"grass",
+		"attacks":[
+			{
+				"name":"Vampigraine",
+				"strenght":20,
+				"energy_needed":["grass"]
+			},{
+				"name":"Tranch'Herbe",
+				"strenght":40,
+				"energy_needed":["grass", "colorless"]
+			}
+		],
+		"description":"Il a une étrange graine plantée derrière son dos. Elle grandit avec lui depuis sa naissance.",
+		"weakness":"fire",
+		"resistance":"water",
+		"retreat_cost":2,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Bulbizarre",
+			"energy_type":"grass",
+			"HP":"80",
+			"attack_number":2,
+			"attack1_name":"Vampigraine",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"grass",
+			"attack2_name":"Tranch'Herbe",
+			"attack2_strenght":"40",
+			"attack2_energy_needed":"grass colorless",
+			"description":"Il a une étrange graine plantée derrière son dos. Elle grandit avec lui depuis sa naissance.",
+			"resistance":"water",
+			"weakness":"fire",
+			"retreat_cost":"2 colorless"}
+	},
+	{
+		"name":"Taupiqueur",
+		"hp":40,
+		"type":"POKEMON",
+		"energy_type":"fighting",
+		"attacks":[
+			{
+				"name":"Tunnel",
+				"strenght":10,
+				"energy_needed":["fighting"]
+			},{
+				"name":"Jet de boue",
+				"strenght":30,
+				"energy_needed":["fighting","fighting"]
+			}
+		],
+		"description":"Il vit à un mètre sous terre et se nourrit de racines. Il apparait rarement à la surface",
+		"weakness":"grass",
+		"resistance":"lightning",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Taupiqueur",
+			"energy_type":"fighting",
+			"HP":"40",
+			"attack_number":2,
+			"attack1_name":"Tunnel",
+			"attack1_strenght":"10",
+			"attack1_energy_needed":"fighting ",
+			"attack2_name":"Jet de boue",
+			"attack2_strenght":"30",
+			"attack2_energy_needed":"fighting fighting",
+			"description":"Il vit à un mètre sous terre et se nourrit de racines. Il apparait rarement à la surface",
+			"resistance":"lightning",
+			"weakness":"grass",
+			"retreat_cost":"1 colorless"}
+	},
+	{
+		"name":"Scarabrute",
+		"hp":80,
+		"type":"POKEMON",
+		"energy_type":"grass",
+		"attacks":[
+			{
+				"name":"Empoigner et presser",
+				"strenght":20,
+				"energy_needed":["grass"]
+			},
+			{
+				"name":"Guillotine",
+				"strenght":40,
+				"energy_needed":["colorless", "colorless", "grass"]
+			}
+		],
+		"description":"Il sert les proies dans ses pinces pour les trancher en deux. S'il n'y arrive pas, il les jette au loin.",
+		"weakness":"fire",
+		"resistance":"",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Scarabrute",
+			"energy_type":"grass",
+			"HP":"80",
+			"attack_number":2,
+			"attack1_name":"Empoigner et presser",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"grass ",
+			"attack2_name":"Guillotine",
+			"attack2_strenght":"40",
+			"attack2_energy_needed":"colorless colorless grass",
+			"description":"Il sert les proies dans ses pinces pour les trancher en deux. S'il n'y arrive pas, il les jette au loin.",
+			"resistance":"",
+			"weakness":"fire",
+			"retreat_cost":"1 colorless"}
+	},{
+		"name":"Taupiqueur",
+		"hp":40,
+		"type":"POKEMON",
+		"energy_type":"fighting",
+		"attacks":[
+			{
+				"name":"Tunnel",
+				"strenght":10,
+				"energy_needed":["fighting"]
+			},{
+				"name":"Jet de boue",
+				"strenght":30,
+				"energy_needed":["fighting","fighting"]
+			}
+		],
+		"description":"Il vit à un mètre sous terre et se nourrit de racines. Il apparait rarement à la surface",
+		"weakness":"grass",
+		"resistance":"lightning",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Taupiqueur",
+			"energy_type":"fighting",
+			"HP":"40",
+			"attack_number":2,
+			"attack1_name":"Tunnel",
+			"attack1_strenght":"10",
+			"attack1_energy_needed":"fighting ",
+			"attack2_name":"Jet de boue",
+			"attack2_strenght":"30",
+			"attack2_energy_needed":"fighting fighting",
+			"description":"Il vit à un mètre sous terre et se nourrit de racines. Il apparait rarement à la surface",
+			"resistance":"lightning",
+			"weakness":"grass",
+			"retreat_cost":"1 colorless"}
+	},{
+		"name":"Scarabrute",
+		"hp":80,
+		"type":"POKEMON",
+		"energy_type":"grass",
+		"attacks":[
+			{
+				"name":"Empoigner et presser",
+				"strenght":20,
+				"energy_needed":["grass"]
+			},
+			{
+				"name":"Guillotine",
+				"strenght":40,
+				"energy_needed":["colorless", "colorless", "grass"]
+			}
+		],
+		"description":"Il sert les proies dans ses pinces pour les trancher en deux. S'il n'y arrive pas, il les jette au loin.",
+		"weakness":"fire",
+		"resistance":"",
+		"retreat_cost":1,
+		"map_card":
+			{"card_type":"POKEMON",
+			"name":"Scarabrute",
+			"energy_type":"grass",
+			"HP":"80",
+			"attack_number":2,
+			"attack1_name":"Empoigner et presser",
+			"attack1_strenght":"20",
+			"attack1_energy_needed":"grass ",
+			"attack2_name":"Guillotine",
+			"attack2_strenght":"40",
+			"attack2_energy_needed":"colorless colorless grass",
+			"description":"Il sert les proies dans ses pinces pour les trancher en deux. S'il n'y arrive pas, il les jette au loin.",
+			"resistance":"",
+			"weakness":"fire",
+			"retreat_cost":"1 colorless"}
+	},
+	{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"grass",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"grass",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"fighting",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"fighting",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"fighting",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"fighting",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"fighting",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"fighting",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"fighting",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"fighting",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"water",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"water",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"water",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"water",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"water",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"water",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"water",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"water",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":" ",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	},{
+		"type":"ENERGY",
+		"energy_type":"water",
+		"map_card":
+			{"card_type":"ENERGY",
+			"name":"",
+			"energy_type":"water",
+			"HP":"",
+			"attack_number":"",
+			"attack1_name":"",
+			"attack1_strenght":"",
+			"attack1_energy_needed":"",
+			"attack2_name":"",
+			"attack2_strenght":"",
+			"attack2_energy_needed":"",
+			"description":"",
+			"resistance":"",
+			"weakness":"",
+			"retreat_cost":""}
+	}
+]}
