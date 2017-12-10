@@ -58,7 +58,7 @@ public class GameGUI extends JFrame {
         printZones();
         this.handZone.printHand(player.getHand());
         benchZone.setZones(player);
-        activeZone.setZone(player, player+", préparez votre terrain. Choississez votre pokemon actif.", false);
+        activeZone.setZone(player, player+", préparez votre terrain. Choisissez votre pokemon actif.", false);
         adversePlayer.setZones(game.getAdversePlayer(player));
     }
 

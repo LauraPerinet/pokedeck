@@ -18,7 +18,14 @@ public class EmptyZone extends JPanel {
     String text="";
     private int width=250; 
     private int height=400;
-    public EmptyZone() {
+    
+    public EmptyZone(){
+        
+    }
+    public EmptyZone(String text, Boolean infoGame) {
+        this.text=text;
+        this.height=30;
+        this.width=800;
     }
     public EmptyZone(String text) {
         this.text=text;

@@ -23,7 +23,6 @@ public class AdversePlayer extends JPanel{
     public AdversePlayer() {
         this.setLayout(new FlowLayout());
         this.setPreferredSize(new Dimension(250,460)); 
-        this.setBackground(Color.yellow);
     }
     
     public void setZones(Player p) {

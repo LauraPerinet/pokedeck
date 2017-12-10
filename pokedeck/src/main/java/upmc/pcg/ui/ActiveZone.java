@@ -36,7 +36,7 @@ public class ActiveZone extends JPanel {
         this.selectPokemon=selectPokemon;
         this.removeAll();
         this.info=info;
-        JPanel titre = new EmptyZone(info);
+        JPanel titre = new EmptyZone(info, true);
         JPanel actions = actionZone( p );
         
         titre.setPreferredSize(new Dimension(1050,60));
